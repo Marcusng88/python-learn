@@ -1,3 +1,5 @@
+# dots drawing with random color
+# 10x10 drawing
 from turtle import Turtle,Screen
 import random
 import turtle
